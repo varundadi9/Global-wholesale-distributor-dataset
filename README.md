@@ -134,10 +134,3 @@ If returns 0, rerun the data cube notebook.
 ```sql
 SELECT * FROM 02_silver.silver.exchange_rates LIMIT 10;
 ```
-Verify exchange rates are loaded correctly.
-
----
-
-**Last Updated**: March 27, 2026  
-**Platform**: Databricks (AWS)  
-**Format**: Delta Lake
